@@ -1,2 +1,2 @@
 install:
-	install -m 555 365chesscat.sh /usr/local/bin/365chesscat
+	install -m 555 zipcat.sh /usr/local/bin/zipcat
